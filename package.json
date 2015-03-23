@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/gchauvet/architect-request",
   "dependencies": {
+    "lodash": "^3.5.0",
     "request": "^2.53.0"
   },
   "devDependencies": {
